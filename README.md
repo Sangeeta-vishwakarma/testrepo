@@ -1,1 +1,1 @@
-This repository contains the projects I've done during my learning of data science course from coursera. In this project you'll find different tools and techniques used on SpaceX data in order to gathering and cleaning of data, analyse and visualize.
+This repository contains the projects I've done during my learning of data science course from coursera. In this project you'll find different tools and techniques used on SpaceX data in order to gather, clean, analyse and visualize the data in better format.
